@@ -1,0 +1,77 @@
+
+h1 {
+    font-family: "font-style": oblique 40deg;
+    text-shadow: 1px 1px;
+  }
+  h2 {
+    text-shadow: 1px 1px;
+    color: rgb(8, 76, 149);
+  }
+  h3 {
+    text-shadow: 1px 1px;
+    color: rgb(8, 76, 149) ;
+  }
+
+body{
+    background: linear-gradient(to right,#000000,#030303);
+    text-align: center;
+    padding-top: 80px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-style: oblique;
+    color: rgb(255, 248, 235);
+}
+.PIC{
+    width: 250px;
+    height: 250px;
+    padding-bottom: 7px;
+
+    border-radius: 80%;
+  
+}
+.left{
+    width: 800px;
+    height: 999px;
+    background-color:#040404;
+    color: #959393 ;
+    text-align:left;
+    margin-top: 55px;
+   margin-left: 120px;
+   
+    
+    
+  
+}
+.right{
+    width: 800px;
+    height: 999px;
+    background-color:#000000;
+    color:  #959393;
+    text-align: left;
+    margin-top: 55px;
+    margin-right: -35px;
+    
+   
+}
+.divc{ display: flex;
+
+}
+.pic2{
+    padding-top: 10px;
+    background-color: #000000;
+    
+
+}
+.certi{
+    background-color: #000000;
+}
+.picture{
+    height: 500px;
+    width: 1518px;
+   margin: -90px;
+}
+.name{
+ margin-top: -320px;
+}
+ul{ list-style: none;
+
+}
